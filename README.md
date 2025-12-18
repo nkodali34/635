@@ -46,6 +46,7 @@ Both models are deployed via **OpenCV DNN using ONNX**.
 * ONNX models (YuNet, SFace)
 
 ## Repository Structure
+```
 models/              # ONNX models
 registered_faces/    # Stored embeddings (.npy)
 src/
@@ -54,6 +55,7 @@ src/
  ├─ recognition.py  # Live inference
  ├─ utils.py
  └─ config.py
+```
 
 ## Performance
 * **FPS:** 15–20
