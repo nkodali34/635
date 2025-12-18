@@ -1,5 +1,5 @@
 # 635
-# Smart Doorbell — Edge AI on Raspberry Pi
+# Smart Doorbell with Face Recognition on Raspberry Pi
 
 ## Overview
 This project implements a **privacy-preserving smart doorbell system** that performs **real-time face detection and recognition entirely on a Raspberry Pi 4** using **ONNX models**. All inference runs **locally on-device**, eliminating cloud dependency, latency, and privacy concerns.
